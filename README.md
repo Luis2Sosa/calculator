@@ -11,12 +11,9 @@ This is a mini console application built in Python that randomly generates a num
 
 ## 📂 Project Structure
 
-<<<<<<< HEAD
+
 random-operation-calculator/ ├── calculator.py ├── README.md
 
-=======
-random-operation-calculator/ calculator.py -README.md
->>>>>>> 1af1e49c18cbf9de5c1a8492edb234f95a67404b
 
 ## 🚀 How to Run
 
@@ -27,7 +24,7 @@ random-operation-calculator/ calculator.py -README.md
 ```bash
 python calculator.py
 
-<<<<<<< HEAD
+
 🎯 Features
 Random number generator between 10 and 100
 
@@ -47,7 +44,7 @@ Python Developer in training
 🚀 Building a portfolio of real console-based apps
 
 💡 Note
-=======
+
 Features
 •Random number generator between 10 and 100
 Option to apply:
@@ -55,5 +52,6 @@ Square root
 Power (number to the power of itself) Both operations Friendly console interaction Author Luis Sosa
 Python Developer in training Building a portfolio of real console-based apps
 
->>>>>>> 1af1e49c18cbf9de5c1a8492edb234f95a67404b
+
+
 This is a bonus project from Luis Sosa's professional portfolio, designed to practice the use of modules and math operations in Python.
