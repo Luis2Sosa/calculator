@@ -21,3 +21,5 @@ elif opcion == "ambos":
     print(f"La raiz del numero aleatorio es: {math.sqrt(r1):.2} y el cuadrado es: {math.pow(r1, r1):.2}")
 else:
     print("Opcion no valida.")
+    
+# Comentario de prueba para git
