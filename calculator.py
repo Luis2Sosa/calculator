@@ -22,4 +22,4 @@ elif opcion == "ambos":
 else:
     print("Opcion no valida.")
     
-# Comentario de prueba para git
+# Comentario de prueba para git .
